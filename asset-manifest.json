@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactTodo/static/css/main.6a8dca54.css",
+    "main.js": "/ReactTodo/static/js/main.25d941d6.js",
+    "static/media/pexels-james-frid-1303216.jpg": "/ReactTodo/static/media/pexels-james-frid-1303216.2684656a1511cbcff7e6.jpg",
+    "index.html": "/ReactTodo/index.html",
+    "main.6a8dca54.css.map": "/ReactTodo/static/css/main.6a8dca54.css.map",
+    "main.25d941d6.js.map": "/ReactTodo/static/js/main.25d941d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8dca54.css",
+    "static/js/main.25d941d6.js"
+  ]
+}
